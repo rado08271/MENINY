@@ -1,0 +1,766 @@
+<resources>
+    <string name="app_name">Meniny</string>\
+
+    <string-array name="name">
+        <item> ---- </item>
+        <item>Alexandra, Karina</item>
+        <item>Daniela</item>
+        <item>Drahoslav</item>
+        <item>Andrea</item>
+        <item>Antonia</item>
+        <item>Bohuslava</item>
+        <item>Severin</item>
+        <item>Alexej</item>
+        <item>Dasa</item>
+        <item>Malvina</item>
+        <item>Ernest</item>
+        <item>Rastislav</item>
+        <item>Radovan</item>
+        <item>Dobroslav</item>
+        <item>Kristina</item>
+        <item>Natasa</item>
+        <item>Bohdana</item>
+        <item>Drahomira, Mario</item>
+        <item>Dalibor</item>
+        <item>Vincent</item>
+        <item>Zora</item>
+        <item>Milos</item>
+        <item>Timotej</item>
+        <item>Gejza</item>
+        <item>Tamara</item>
+        <item>Bohus</item>
+        <item>Alfonz</item>
+        <item>Gaspar</item>
+        <item>Ema</item>
+        <item>Emil</item>
+
+        <item>Tatiana</item>
+        <item>Erika, Erik</item>
+        <item>Blazej</item>
+        <item>Veronika</item>
+        <item>Agata</item>
+        <item>Dorota</item>
+        <item>Vanda</item>
+        <item>Zoja</item>
+        <item>Zdenko</item>
+        <item>Gabriela</item>
+        <item>Dezider</item>
+        <item>Perla</item>
+        <item>Arpad</item>
+        <item>Valentin</item>
+        <item>Pravoslav</item>
+        <item>Ida, Liana</item>
+        <item>Miloslava</item>
+        <item>Jaromir</item>
+        <item>Vlasta</item>
+        <item>Livia</item>
+        <item>Eleonora</item>
+        <item>Etela</item>
+        <item>Roman, Romana</item>
+        <item>Matej</item>
+        <item>Frederik, Frederika</item>
+        <item>Viktor</item>
+        <item>Alexander</item>
+        <item>Zlatica</item>
+
+        <item>Albin</item>
+        <item>Anezka</item>
+        <item>Bohumil, Bohumila</item>
+        <item>Kazimir</item>
+        <item>Fridrich</item>
+        <item>Radoslav, Radoslava</item>
+        <item>Tomas</item>
+        <item>Alan, Alana</item>
+        <item>Frantiska</item>
+        <item>Bruno, Branislav</item>
+        <item>Angela, Angelika</item>
+        <item>Gregor</item>
+        <item>Vlastimil</item>
+        <item>Matilda</item>
+        <item>Svetlana</item>
+        <item>Boleslav</item>
+        <item>Lubica</item>
+        <item>Eduard</item>
+        <item>Jozef</item>
+        <item>Vitazoslav, Klaudius</item>
+        <item>Blahoslav</item>
+        <item>Benadik</item>
+        <item>Adrian</item>
+        <item>Gabriel</item>
+        <item>Marian</item>
+        <item>Emanuel</item>
+        <item>Alena</item>
+        <item>Sona</item>
+        <item>Miroslav</item>
+        <item>Vieroslava</item>
+        <item>Benjamin</item>
+
+        <item>Hugo</item>
+        <item>Zita</item>
+        <item>Richard</item>
+        <item>Izidor</item>
+        <item>Miroslava</item>
+        <item>Irena</item>
+        <item>Zoltan</item>
+        <item>Albert</item>
+        <item>Milena</item>
+        <item>Igor</item>
+        <item>Julius</item>
+        <item>Estera</item>
+        <item>Ales</item>
+        <item>Justina</item>
+        <item>Fedor</item>
+        <item>Dana, Danica</item>
+        <item>Rudolf, Rudolfa</item>
+        <item>Valer</item>
+        <item>Jela</item>
+        <item>Marcel</item>
+        <item>Ervin</item>
+        <item>Slavomir</item>
+        <item>Vojtech</item>
+        <item>Juraj</item>
+        <item>Marek</item>
+        <item>Jaroslava</item>
+        <item>Jaroslav</item>
+        <item>Jarmila</item>
+        <item>Lea</item>
+        <item>Anastazia</item>
+
+        <item> ---- </item>
+        <item>Zigmund</item>
+        <item>Galina, Timea</item>
+        <item>Florian</item>
+        <item>Lesia, Lesana</item>
+        <item>Hermina</item>
+        <item>Monika</item>
+        <item>Ingrida</item>
+        <item>Roland</item>
+        <item>Viktoria</item>
+        <item>Blazena</item>
+        <item>Pankrac</item>
+        <item>Servac</item>
+        <item>Bonifac</item>
+        <item>Zofia, Sofia</item>
+        <item>Svetozar</item>
+        <item>Gizela, Aneta</item>
+        <item>Viola</item>
+        <item>Gertruda</item>
+        <item>Bernard</item>
+        <item>Zina</item>
+        <item>Julia, Juliana</item>
+        <item>Zelmira</item>
+        <item>Ela</item>
+        <item>Urban, Vivien</item>
+        <item>Dusan</item>
+        <item>Iveta</item>
+        <item>Viliam</item>
+        <item>Vilma</item>
+        <item>Ferdinand</item>
+        <item>Petrana, Petronela</item>
+
+        <item>Zaneta</item>
+        <item>Xenia, Oxana</item>
+        <item>Karolina</item>
+        <item>Lenka</item>
+        <item>Laura</item>
+        <item>Norbert</item>
+        <item>Robert, Roberta</item>
+        <item>Medard</item>
+        <item>Stanislava</item>
+        <item>Margareta, Greta</item>
+        <item>Dobroslava</item>
+        <item>Zlatko</item>
+        <item>Anton</item>
+        <item>Vasil</item>
+        <item>Vit</item>
+        <item>Blanka, Bianka</item>
+        <item>Adolf</item>
+        <item>Vratislav</item>
+        <item>Alfred</item>
+        <item>Valeria</item>
+        <item>Alojz</item>
+        <item>Paulina</item>
+        <item>Sidonia</item>
+        <item>Jan</item>
+        <item>Olivia, Tadeas</item>
+        <item>Adriana</item>
+        <item>Ladislav, Ladislava</item>
+        <item>Beata</item>
+        <item>Peter, Pavol, Petra</item>
+        <item>Melania</item>
+
+        <item>Diana</item>
+        <item>Berta</item>
+        <item>Miloslav</item>
+        <item>Prokop</item>
+        <item>Cyril, Metod</item>
+        <item>Patrik, Patricia</item>
+        <item>Oliver</item>
+        <item>Ivan</item>
+        <item>Lujza</item>
+        <item>Amalia</item>
+        <item>Milota</item>
+        <item>Nina</item>
+        <item>Margita</item>
+        <item>Kamil</item>
+        <item>Henrich</item>
+        <item>Drahomir, Rut</item>
+        <item>Bohuslav</item>
+        <item>Kamila</item>
+        <item>Dusana</item>
+        <item>Ilja, Elias</item>
+        <item>Daniel</item>
+        <item>Magdalena</item>
+        <item>Olga</item>
+        <item>Vladimir</item>
+        <item>Jakub, Timur</item>
+        <item>Anna, Hana, Anita</item>
+        <item>Bozena</item>
+        <item>Kristof</item>
+        <item>Marta</item>
+        <item>Libusa</item>
+        <item>Ignac</item>
+        <item>Bozidara</item>
+
+        <item>Gustav</item>
+        <item>Jergus</item>
+        <item>Dominika, Dominik</item>
+        <item>Hortenzia</item>
+        <item>Jozefina</item>
+        <item>Stefania</item>
+        <item>Oskar</item>
+        <item>Lubomira</item>
+        <item>Vavrinec</item>
+        <item>Zuzana</item>
+        <item>Darina</item>
+        <item>Lubomir</item>
+        <item>Mojmir</item>
+        <item>Marcela</item>
+        <item>Leonard</item>
+        <item>Milica</item>
+        <item>Elena, Helena</item>
+        <item>Lydia</item>
+        <item>Anabela, Liliana</item>
+        <item>Jana</item>
+        <item>Tichomir</item>
+        <item>Filip</item>
+        <item>Bartolomej</item>
+        <item>Ludovit</item>
+        <item>Samuel</item>
+        <item>Silvia</item>
+        <item>Augustin</item>
+        <item>Nikola, Nikolaj</item>
+        <item>Ruzena</item>
+        <item>Nora</item>
+
+        <item>Drahoslava</item>
+        <item>Linda, Rebeka</item>
+        <item>Belo</item>
+        <item>Rozalia</item>
+        <item>Regina</item>
+        <item>Alica</item>
+        <item>Marianna</item>
+        <item>Miriama</item>
+        <item>Martina</item>
+        <item>Oleg</item>
+        <item>Bystrik</item>
+        <item>Maria, Marlena</item>
+        <item>Ctibor</item>
+        <item>Ludomil</item>
+        <item>Jolana</item>
+        <item>Ludmila</item>
+        <item>Olympia</item>
+        <item>Eugenia</item>
+        <item>Konstantin</item>
+        <item>Luboslav, Luboslava</item>
+        <item>Matus</item>
+        <item>Moric</item>
+        <item>Zdenka</item>
+        <item>Lubos, Lubor</item>
+        <item>Vladislav, Vladislava</item>
+        <item>Edita</item>
+        <item>Cyprian</item>
+        <item>Vaclav</item>
+        <item>Michal, Michaela</item>
+        <item>Jarolim</item>
+
+        <item>Arnold</item>
+        <item>Levoslav</item>
+        <item>Stela</item>
+        <item>Frantisek</item>
+        <item>Viera</item>
+        <item>Natalia</item>
+        <item>Eliska</item>
+        <item>Brigita</item>
+        <item>Dionyz</item>
+        <item>Slavomira</item>
+        <item>Valentina</item>
+        <item>Maximilian</item>
+        <item>Koloman</item>
+        <item>Boris</item>
+        <item>Terezia</item>
+        <item>Vladimira</item>
+        <item>Hedviga</item>
+        <item>Lukas</item>
+        <item>Kristian</item>
+        <item>Vendelin</item>
+        <item>Ursula</item>
+        <item>Sergej</item>
+        <item>Alojzia</item>
+        <item>Kvetoslava</item>
+        <item>Aurel</item>
+        <item>Demeter</item>
+        <item>Sabina</item>
+        <item>Dobromila</item>
+        <item>Klara</item>
+        <item>Simon, Simona</item>
+        <item>Aurelia</item>
+
+        <item>Denis, Denisa</item>
+        <item> ---- </item>
+        <item>Hubert</item>
+        <item>Karol</item>
+        <item>Imrich</item>
+        <item>Renata</item>
+        <item>Rene</item>
+        <item>Bohumir</item>
+        <item>Teodor</item>
+        <item>Tibor</item>
+        <item>Martin, Maros</item>
+        <item>Svatopluk</item>
+        <item>Stanislav</item>
+        <item>Irma</item>
+        <item>Leopold</item>
+        <item>Agnesa</item>
+        <item>Klaudia</item>
+        <item>Eugen</item>
+        <item>Alzbeta</item>
+        <item>Felix</item>
+        <item>Elvira</item>
+        <item>Cecilia</item>
+        <item>Klement</item>
+        <item>Emilia</item>
+        <item>Katarina</item>
+        <item>Kornel</item>
+        <item>Milan</item>
+        <item>Henrieta</item>
+        <item>Vratko</item>
+        <item>Ondrej, Andrej</item>
+
+        <item>Edmund</item>
+        <item>Bibiana</item>
+        <item>Oldrich</item>
+        <item>Barbora, Barbara</item>
+        <item>Oto</item>
+        <item>Mikulas</item>
+        <item>Ambroz</item>
+        <item>Marina</item>
+        <item>Izabela</item>
+        <item>Raduz</item>
+        <item>Hilda</item>
+        <item>Otilia</item>
+        <item>Lucia</item>
+        <item>Branislava, Bronislava</item>
+        <item>Ivica</item>
+        <item>Albina</item>
+        <item>Kornelia</item>
+        <item>Slava</item>
+        <item>Judita</item>
+        <item>Dagmara</item>
+        <item>Bohdan</item>
+        <item>Adela</item>
+        <item>Nadezda</item>
+        <item>Adam, Eva</item>
+        <item> ---- </item>
+        <item>Stefan</item>
+        <item>Filomena</item>
+        <item>Ivana, Ivona</item>
+        <item>Milada</item>
+        <item>David</item>
+        <item>Silvester</item>
+
+
+    </string-array>
+
+    <string-array name="date">
+        <item>1.1</item>
+        <item>2.1</item>
+        <item>3.1</item>
+        <item>4.1</item>
+        <item>5.1</item>
+        <item>6.1</item>
+        <item>7.1</item>
+        <item>8.1</item>
+        <item>9.1</item>
+        <item>10.1</item>
+        <item>11.1</item>
+        <item>12.1</item>
+        <item>13.1</item>
+        <item>14.1</item>
+        <item>15.1</item>
+        <item>16.1</item>
+        <item>17.1</item>
+        <item>18.1</item>
+        <item>19.1</item>
+        <item>20.1</item>
+        <item>21.1</item>
+        <item>22.1</item>
+        <item>23.1</item>
+        <item>24.1</item>
+        <item>25.1</item>
+        <item>26.1</item>
+        <item>27.1</item>
+        <item>28.1</item>
+        <item>29.1</item>
+        <item>30.1</item>
+        <item>31.1</item>
+
+        <item>1.2</item>
+        <item>2.2</item>
+        <item>3.2</item>
+        <item>4.2</item>
+        <item>5.2</item>
+        <item>6.2</item>
+        <item>7.2</item>
+        <item>8.2</item>
+        <item>9.2</item>
+        <item>10.2</item>
+        <item>11.2</item>
+        <item>12.2</item>
+        <item>13.2</item>
+        <item>14.2</item>
+        <item>15.2</item>
+        <item>16.2</item>
+        <item>17.2</item>
+        <item>18.2</item>
+        <item>19.2</item>
+        <item>20.2</item>
+        <item>21.2</item>
+        <item>22.2</item>
+        <item>23.2</item>
+        <item>24.2</item>
+        <item>25.2</item>
+        <item>26.2</item>
+        <item>27.2</item>
+        <item>28.2</item>
+
+        <item>1.3</item>
+        <item>2.3</item>
+        <item>3.3</item>
+        <item>4.3</item>
+        <item>5.3</item>
+        <item>6.3</item>
+        <item>7.3</item>
+        <item>8.3</item>
+        <item>9.3</item>
+        <item>10.3</item>
+        <item>11.3</item>
+        <item>12.3</item>
+        <item>13.3</item>
+        <item>14.3</item>
+        <item>15.3</item>
+        <item>16.3</item>
+        <item>17.3</item>
+        <item>18.3</item>
+        <item>19.3</item>
+        <item>20.3</item>
+        <item>21.3</item>
+        <item>22.3</item>
+        <item>23.3</item>
+        <item>24.3</item>
+        <item>25.3</item>
+        <item>26.3</item>
+        <item>27.3</item>
+        <item>28.3</item>
+        <item>29.3</item>
+        <item>30.3</item>
+        <item>31.3</item>
+
+        <item>1.4</item>
+        <item>2.4</item>
+        <item>3.4</item>
+        <item>4.4</item>
+        <item>5.4</item>
+        <item>6.4</item>
+        <item>7.4</item>
+        <item>8.4</item>
+        <item>9.4</item>
+        <item>10.4</item>
+        <item>11.4</item>
+        <item>12.4</item>
+        <item>13.4</item>
+        <item>14.4</item>
+        <item>15.4</item>
+        <item>16.4</item>
+        <item>17.4</item>
+        <item>18.4</item>
+        <item>19.4</item>
+        <item>20.4</item>
+        <item>21.4</item>
+        <item>22.4</item>
+        <item>23.4</item>
+        <item>24.4</item>
+        <item>25.4</item>
+        <item>26.4</item>
+        <item>27.4</item>
+        <item>28.4</item>
+        <item>29.4</item>
+        <item>30.4</item>
+
+        <item>1.5</item>
+        <item>2.5</item>
+        <item>3.5</item>
+        <item>4.5</item>
+        <item>5.5</item>
+        <item>6.5</item>
+        <item>7.5</item>
+        <item>8.5</item>
+        <item>9.5</item>
+        <item>10.5</item>
+        <item>11.5</item>
+        <item>12.5</item>
+        <item>13.5</item>
+        <item>14.5</item>
+        <item>15.5</item>
+        <item>16.5</item>
+        <item>17.5</item>
+        <item>18.5</item>
+        <item>19.5</item>
+        <item>20.5</item>
+        <item>21.5</item>
+        <item>22.5</item>
+        <item>23.5</item>
+        <item>24.5</item>
+        <item>25.5</item>
+        <item>26.5</item>
+        <item>27.5</item>
+        <item>28.5</item>
+        <item>29.5</item>
+        <item>30.5</item>
+        <item>31.5</item>
+
+        <item>1.6</item>
+        <item>2.6</item>
+        <item>3.6</item>
+        <item>4.6</item>
+        <item>5.6</item>
+        <item>6.6</item>
+        <item>7.6</item>
+        <item>8.6</item>
+        <item>9.6</item>
+        <item>10.6</item>
+        <item>11.6</item>
+        <item>12.6</item>
+        <item>13.6</item>
+        <item>14.6</item>
+        <item>15.6</item>
+        <item>16.6</item>
+        <item>17.6</item>
+        <item>18.6</item>
+        <item>19.6</item>
+        <item>20.6</item>
+        <item>21.6</item>
+        <item>22.6</item>
+        <item>23.6</item>
+        <item>24.6</item>
+        <item>25.6</item>
+        <item>26.6</item>
+        <item>27.6</item>
+        <item>28.6</item>
+        <item>29.6</item>
+        <item>30.6</item>
+
+        <item>1.7</item>
+        <item>2.7</item>
+        <item>3.7</item>
+        <item>4.7</item>
+        <item>5.7</item>
+        <item>6.7</item>
+        <item>7.7</item>
+        <item>8.7</item>
+        <item>9.7</item>
+        <item>10.7</item>
+        <item>11.7</item>
+        <item>12.7</item>
+        <item>13.7</item>
+        <item>14.7</item>
+        <item>15.7</item>
+        <item>16.7</item>
+        <item>17.7</item>
+        <item>18.7</item>
+        <item>19.7</item>
+        <item>20.7</item>
+        <item>21.7</item>
+        <item>22.7</item>
+        <item>23.7</item>
+        <item>24.7</item>
+        <item>25.7</item>
+        <item>26.7</item>
+        <item>27.7</item>
+        <item>28.7</item>
+        <item>29.7</item>
+        <item>30.7</item>
+        <item>31.7</item>
+
+        <item>1.8</item>
+        <item>2.8</item>
+        <item>3.8</item>
+        <item>4.8</item>
+        <item>5.8</item>
+        <item>6.8</item>
+        <item>7.8</item>
+        <item>8.8</item>
+        <item>9.8</item>
+        <item>10.8</item>
+        <item>11.8</item>
+        <item>12.8</item>
+        <item>13.8</item>
+        <item>14.8</item>
+        <item>15.8</item>
+        <item>16.8</item>
+        <item>17.8</item>
+        <item>18.8</item>
+        <item>19.8</item>
+        <item>20.8</item>
+        <item>21.8</item>
+        <item>22.8</item>
+        <item>23.8</item>
+        <item>24.8</item>
+        <item>25.8</item>
+        <item>26.8</item>
+        <item>27.8</item>
+        <item>28.8</item>
+        <item>29.8</item>
+        <item>30.8</item>
+        <item>31.8</item>
+
+        <item>1.9</item>
+        <item>2.9</item>
+        <item>3.9</item>
+        <item>4.9</item>
+        <item>5.9</item>
+        <item>6.9</item>
+        <item>7.9</item>
+        <item>8.9</item>
+        <item>9.9</item>
+        <item>10.9</item>
+        <item>11.9</item>
+        <item>12.9</item>
+        <item>13.9</item>
+        <item>14.9</item>
+        <item>15.9</item>
+        <item>16.9</item>
+        <item>17.9</item>
+        <item>18.9</item>
+        <item>19.9</item>
+        <item>20.9</item>
+        <item>21.9</item>
+        <item>22.9</item>
+        <item>23.9</item>
+        <item>24.9</item>
+        <item>25.9</item>
+        <item>26.9</item>
+        <item>27.9</item>
+        <item>28.9</item>
+        <item>29.9</item>
+        <item>30.9</item>
+
+        <item>1.10</item>
+        <item>2.10</item>
+        <item>3.10</item>
+        <item>4.10</item>
+        <item>5.10</item>
+        <item>6.10</item>
+        <item>7.10</item>
+        <item>8.10</item>
+        <item>9.10</item>
+        <item>10.10</item>
+        <item>11.10</item>
+        <item>12.10</item>
+        <item>13.10</item>
+        <item>14.10</item>
+        <item>15.10</item>
+        <item>16.10</item>
+        <item>17.10</item>
+        <item>18.10</item>
+        <item>19.10</item>
+        <item>20.10</item>
+        <item>21.10</item>
+        <item>22.10</item>
+        <item>23.10</item>
+        <item>24.10</item>
+        <item>25.10</item>
+        <item>26.10</item>
+        <item>27.10</item>
+        <item>28.10</item>
+        <item>29.10</item>
+        <item>30.10</item>
+        <item>31.10</item>
+
+        <item>1.11</item>
+        <item>2.11</item>
+        <item>3.11</item>
+        <item>4.11</item>
+        <item>5.11</item>
+        <item>6.11</item>
+        <item>7.11</item>
+        <item>8.11</item>
+        <item>9.11</item>
+        <item>10.11</item>
+        <item>11.11</item>
+        <item>12.11</item>
+        <item>13.11</item>
+        <item>14.11</item>
+        <item>15.11</item>
+        <item>16.11</item>
+        <item>17.11</item>
+        <item>18.11</item>
+        <item>19.11</item>
+        <item>20.11</item>
+        <item>21.11</item>
+        <item>22.11</item>
+        <item>23.11</item>
+        <item>24.11</item>
+        <item>25.11</item>
+        <item>26.11</item>
+        <item>27.11</item>
+        <item>28.11</item>
+        <item>29.11</item>
+        <item>30.11</item>
+
+        <item>1.12</item>
+        <item>2.12</item>
+        <item>3.12</item>
+        <item>4.12</item>
+        <item>5.12</item>
+        <item>6.12</item>
+        <item>7.12</item>
+        <item>8.12</item>
+        <item>9.12</item>
+        <item>10.12</item>
+        <item>11.12</item>
+        <item>12.12</item>
+        <item>13.12</item>
+        <item>14.12</item>
+        <item>15.12</item>
+        <item>16.12</item>
+        <item>17.12</item>
+        <item>18.12</item>
+        <item>19.12</item>
+        <item>20.12</item>
+        <item>21.12</item>
+        <item>22.12</item>
+        <item>23.12</item>
+        <item>24.12</item>
+        <item>25.12</item>
+        <item>26.12</item>
+        <item>27.12</item>
+        <item>28.12</item>
+        <item>29.12</item>
+        <item>30.12</item>
+        <item>31.12</item>
+
+    </string-array>
+
+
+</resources>
